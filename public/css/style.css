@@ -1,0 +1,10 @@
+header{
+    max-width: 100%;
+    background-color: blue;
+    height: 100px;
+}
+
+a{
+    color: gray;
+    cursor: pointer;
+}
