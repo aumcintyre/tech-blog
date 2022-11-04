@@ -1,10 +1,21 @@
 header{
     max-width: 100%;
-    background-color: blue;
+    background-color:cornflowerblue;
     height: 100px;
+    display: flex;
+    align-items: center;
 }
 
 a{
     color: gray;
     cursor: pointer;
+}
+
+button{
+    border-radius: 50px;
+}
+
+.post-card{
+    background-color: darkseagreen;
+    margin: 15px;
 }
